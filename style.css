@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+    background: #4B79A1;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+
+}
+
+.tm {
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    padding-top:20%;
+    font-size: 20vh;
+    font-weight: 800;
+    text-align: center;
+
+}
+
